@@ -25,7 +25,7 @@ SECRET_KEY = 'qjd_f4)kh8ki%@)hgn5u!w83m($(ww9f3j@-n6gvhlg3kpcbb1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jacup.pythonanywhere.com']
 
 
 # Application definition
