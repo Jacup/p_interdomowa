@@ -4,10 +4,9 @@ from django.utils import timezone
 
 class Post(models.Model):
     author = models.ForeignKey('auth.User')
-    title = models.CharField(max_length=200)
+    title = models.CharField(max_length=100)
+    desc = models.TextField(max_length=200)
     text = models.TextField()
-    estimated_date = models.DateTimeField(
-            blank=True, null=True)
     published_date = models.DateTimeField(
             default=timezone.now)
 

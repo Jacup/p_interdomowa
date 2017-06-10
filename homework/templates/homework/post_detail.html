@@ -1,0 +1,19 @@
+{% extends 'homework/base.html' %}
+
+{% block content %}
+    <div class="post.detail">
+        {% if post.published_date %}
+            <div class="date">
+                {{ post.published_date }}
+            </div>
+        {% endif %}
+        {% if user.is_authenticated %}
+            <a class="btn btn-default" href="{% url 'post_edit' pk=post.pk %}"><span class="glyphicon glyphicon-pencil"></span></a>
+        {% endif %}
+        <center><h1>{{ post.title }}</h1></center>
+        <h3> {{ post.desc }} </h3> <br><br>
+        <p>{{ post.text|linebreaksbr }}</p>
+    </div>
+
+
+{% endblock %}
