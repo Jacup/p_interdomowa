@@ -16,7 +16,8 @@
     <div class="page-header">
         <h1><a href="/">Przepisy Kulinarne</a></h1>
         {% if user.is_authenticated %}
-        <div class="top-right-menu">Witaj {{user}} ! </div>
+        <div class="top-right-menu">
+             Witaj <a href='/admin'> {{user}} ! </a></div>
             <h3><a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"> Dodaj przepis</span></a> </h3>
         {% else %}
         <div class="top-right-menu">
