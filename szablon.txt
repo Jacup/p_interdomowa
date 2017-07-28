@@ -1,0 +1,380 @@
+<style><!--
+#user_field * {
+padding: 0;
+margin: 0 auto;
+text-align: center;
+}
+#user_field #wrap {
+width: 1198px;
+font-family: Tahoma;
+font-size: 12px;
+color: #000000;
+text-align: left;
+}
+#user_field #bg {
+float: left;
+background: #f5f5f5 url("http://dawika.pl/szablon/images/bg.jpg") repeat-y;
+width: 1198px;
+min-height: 377px;
+}#user_field #top {
+float: left;
+background: url("http://dawika.pl/szablon/images/top.jpg") no-repeat;
+width: 1198px;
+height: 476px;
+}#user_field #wrap-content {
+float: left;
+width: 1198px;}
+#user_field #content {
+float: left;
+width: 788px;
+margin-left: 33px;
+}
+#user_field .podklad2 {
+float: left;
+background: #fff;
+width: 786px;
+border: #656565 solid 1px;
+}#user_field #left {
+float: left;
+width: 265px;
+margin-left: 56px;
+}#user_field .podklad {
+float: left;
+width: 265px;
+min-height: 50px;
+}#user_field #ofirmie {
+float: left;
+background: url("http://dawika.pl/szablon/images/ofirmie.jpg") no-repeat;
+width: 265px;
+height: 65px;
+}#user_field #kontakt {
+float: left;
+background: url("http://dawika.pl/szablon/images/kontakt.jpg") no-repeat;
+width: 265px;
+height: 65px;
+}
+#user_field #dostawa {
+float: left;
+background: url("http://dawika.pl/szablon/images/dostawa.jpg") no-repeat;
+width: 265px;
+height: 65px;
+}
+#user_field #warunki {
+float: left;
+background: url("http://dawika.pl/szablon/images/warunki.jpg") no-repeat;
+width: 265px;
+height: 65px;
+}#user_field .t1 {
+width: 263px;
+background: #fff;
+margin-bottom: 25px;
+border: #656565 solid 1px;
+}
+#user_field .tresc2 {
+font-family: tahoma;
+font-size: 13px;
+color: #000;
+margin: 10px 10px 10px 15px;
+line-height: 25px;
+text-align: left;
+}#user_field .tresc {
+float: left;
+width: 740px;
+font-family: arial;
+font-size: 13px;
+color: #000;
+margin: 15px 20px 20px 12px;
+line-height: 25px;
+text-align: left;
+}#user_field #pytania {
+float: left;
+background: url("http://dawika.pl/szablon/images/pytania.jpg") no-repeat;
+width: 759px;
+height: 275px;
+}
+#user_field #tel {
+float: left;
+margin: 90px 0 0 30px;
+font-size: 70px;
+color: #b10000;
+font-weight: bold;
+}
+#user_field #dzial {
+float: left;
+background: url("http://dawika.pl/szablon/images/dzial.jpg") no-repeat;
+width: 759px;
+height: 43px;
+}
+#user_field #godziny {
+float: left;
+background: url("http://dawika.pl/szablon/images/godziny.jpg") no-repeat;
+width: 759px;
+height: 43px;
+}
+#user_field #daneadresowe {
+float: left;
+background: url("http://dawika.pl/szablon/images/daneadresowe.jpg") no-repeat;
+width: 759px;
+height: 50px;}
+#user_field .danekontakt {
+float: left;
+margin-left: 185px;margin-top: 7px;
+font-size: 15px;
+color: #353535;
+text-align: left;
+}
+#user_field #stopka {
+float: left;
+background: url("http://dawika.pl/szablon/images/stopka.jpg") no-repeat;
+width: 1086px;
+height: 86px;
+margin-top: 20px;
+margin-left: 56px;
+}
+#user_field #stopka_copy {
+float: left;
+margin: 38px 0 0 15px;
+color: #fff;
+}#user_field a {
+color: #000;
+text-decoration: none;
+}
+#user_field .link {
+font-family: arial;
+font-size: 12px;
+color: #fff;
+}
+#user_field a.link {
+text-decoration: none;
+color: #a29ba9;
+}
+#user_field a:hover {
+text-decoration: underline;
+}
+--></style>
+<center>
+<div id="wrap">
+<div id="bg">
+<div id="top"></div>
+<div id="wrap-content">
+<div id="left">
+<div id="ofirmie"></div>
+<div class="podklad">
+<div class="t1">
+<div class="tresc2">
+<div class="tresc2"><span style="text-align: left;"><img height="46" src="http://dawika.pl/szablon/images/walizka.jpg" style="float: left;" width="51"></span><span style="text-align: left;">DAWIKA sp&oacute;łka z ograniczoną odpowiedzialnością </span><span style="text-align: left;">TRADE Sp&oacute;łka komandytowa.<br></span><span style="text-align: left;">ul. Gł&oacute;wna 1b, Koteże, 83-200 Starogard Gdański</span></div>
+<div class="tresc2"><span style="text-align: left;">NIP: 592-226-35-90<br></span><span style="text-align: left;"><img height="62" src="http://dawika.pl/szablon/images/rachunek.jpg" style="float: left;" width="57">Rachunek bankowy:<br></span><span style="text-align: left;">89 8340 0001 2002 0003 6344 0001</span></div>
+</div>
+</div>
+</div>
+<div id="kontakt"></div>
+<div class="podklad">
+<div class="t1">
+<div class="tresc2">
+<div class="tresc2"><img height="57" src="http://dawika.pl/szablon/images/wazne.jpg" style="float: left;" width="218"></div>
+<div class="tresc2">Jeśli nie jesteś pewien, czy nasz sprzęt spełnia Twoje oczekiwania, czy ma odpowiednie parametry to pomoc naszych fachowc&oacute;w na pewno rozwieje wątpliwości. Wsp&oacute;lnie znajdziemy odpowiednie rozwiązanie. Zadzwoń</div>
+<div class="tresc2"><img height="57" src="http://dawika.pl/szablon/images/zadz.jpg" style="float: left;" width="226"></div>
+<div class="tresc2" style="text-align: left;"><span style="text-align: left;">Dział sprzedaży, wsparcie techniczne:<br></span><span style="text-align: left;">58 560 90 23 <br></span><span style="text-align: left;">58 560 90 24 </span><span style="text-align: left;"> </span></div>
+<div class="tresc2"><span style="text-align: left;">e-mail: kraft.trade@poczta.fm</span></div>
+<div class="tresc2">Godziny otwarcia: <br>Poniedziałek - Piątek 8:00 - 17:00</div>
+</div>
+</div>
+</div>
+<div id="dostawa"></div>
+<div class="podklad">
+<div class="t1">
+<div class="tresc2">
+<div class="tresc2"><img src="http://dawika.pl/szablon/images/kur.jpg"></div>
+<div class="tresc2">U nas nie przepłacisz za kuriera! Wszystkie paczki są bardzo bezpiecznie pakowane.<br>Realizujemy przesyłki za pośrednictwem kuriera firmy UPS<br>Towar wysyłamy do 2 dni roboczych od otrzymania wpłaty.</div>
+<div class="tresc2"><img height="106" src="http://dawika.pl/szablon/images/ups.jpg" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" width="85"></div>
+</div>
+</div>
+</div>
+<div id="warunki"></div>
+<div class="podklad">
+<div class="t1">
+<div class="tresc2">
+<div class="tresc2"><img src="http://dawika.pl/szablon/images/gwarn2.jpg"></div>
+<div class="tresc2">Wszystkie nasze produkty posiadają gwarancję</div>
+<div class="tresc2">Oferowany towar jest nowy i pochodzi prosto od producenta lub dystrybutora.</div>
+<div class="tresc2">Jeśli masz pytanie dotyczące akcji zadzwoń chętnie na nie odpowiemy.</div>
+<div class="tresc2">Przed przystąpieniem do aukcji zalecamy zapoznanie się z regulaminem naszego sklepu.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content">
+<div class="podklad2"><img src="http://dawika.pl/szablon/images/dane.jpg">
+<div class="tresc">
+<div class="tresc" style="text-align: center;">
+<p><strong style="color: #333333;"><span style="font-size: 18pt;"><span style="color: #303030; font-family: Arial, Helvetica, sans-serif; font-size: 26px; line-height: 32px; text-align: start; text-indent: -1px;">GWINTOWNICA HYDRAULICZNA DO RUR 1/4-1 1/4 NARZYNKI</span></span></strong></p>
+<p><strong style="color: #333333;"><span style="font-size: 18pt;">KRAFT&amp;DELE</span></strong></p>
+<p>&nbsp;</p>
+<p><img src="http://dawika.pl/gallery/kd332/zestawdogwintowaniakd332.gif" style="border: 1px solid black;"></p>
+<p>&nbsp;</p>
+</div>
+<div class="tresc">
+<p><strong><font color="#333333"><span style="font-size: 18.6666660308838px;">6-Częściowy zestaw do gwintowania KD332 Kraft&amp;Dele</span></font></strong></p>
+<p><font color="#333333"><span style="font-size: 18.6666660308838px;">Zakres gwintu rur: <strong>1/4" - 1 1/4"&nbsp;</strong></span></font></p>
+<p><font color="#333333"><span style="font-size: 18.6666660308838px;">Narzynki: <strong>1/4"; 3/8"; 1/2"; 3/4"; 1"; 1-1/4"&nbsp;</strong></span></font></p>
+<p><font color="#333333"><span style="font-size: 18.6666660308838px;">Waga: <strong>6kg</strong></span></font></p>
+<div><img src="http://dawika.pl/gallery/kd332/dodatek.jpg"><img src="http://dawika.pl/gallery/allegro/promocja.jpg"><img src="http://dawika.pl/gallery/allegro/promocja.gif"></div>
+</div>
+<img src="http://dawika.pl/gallery/kd360/bhp.jpg">
+<div class="tresc"></div>
+</div>
+<img src="http://dawika.pl/szablon/images/sklad.jpg">
+<div class="tresc">
+<div class="tresc">
+<p><strong><span style="font-size: 18.6666660308838px; color: #333333;">&nbsp;</span></strong><strong><font color="#333333"><span style="font-size: 18.6666660308838px;">Zestaw do gwintowania KD332 Kraft&amp;Dele</span></font></strong></p>
+<p><font color="#333333"><span style="font-size: 18.6666660308838px;">Narzynki:&nbsp;</span></font><strong style="color: #333333; font-size: 18.6666660308838px;">1/4"; 3/8"; 1/2"; 3/4"; 1"; 1-1/4"&nbsp;</strong></p>
+<p><strong><font color="#333333"><span style="font-size: 18.6666660308838px;">Grzechotka&nbsp;</span></font></strong></p>
+<p><strong><font color="#333333"><span style="font-size: 18.6666660308838px;">Rączka z przedłużką&nbsp;</span></font></strong></p>
+<p><font color="#333333"><span style="font-size: 18.6666660308838px;"><strong>Walizka</strong> do transportu i przechowywania</span></font></p>
+<p><font color="#333333"><span style="font-size: 18.6666660308838px;">Instrukcja obsługi w J.Polskim</span></font></p>
+<p><font><span>&nbsp;</span><strong><span style="font-size: 18.6666660308838px; color: #333333;">Gwarancja 12 miesięcy</span></strong></font></p>
+</div>
+</div>
+<img src="http://dawika.pl/szablon/images/opis.jpg">
+<div class="tresc">
+<div class="tresc">
+<p style="text-align: left;"><font color="#333333"><span style="font-size: 18.6666660308838px;">Gwintownica <strong>KD332 Kraft&amp;Dele</strong> umożliwia tworzenie trwałych połączeń gwintowanych. Sprawdza się podczas prac hydraulicznych jak i w warsztatach stolarskich.</span></font></p>
+<p style="text-align: left;"><font color="#333333"><span style="font-size: 18.6666660308838px;">&nbsp;</span></font></p>
+<p style="text-align: left;"><font color="#333333"><span style="font-size: 18.6666660308838px;">- Żeliwna konstrukcja dostosowana do prac przy dużych obciążeniach.&nbsp;</span></font></p>
+<p style="text-align: left;"><font color="#333333"><span style="font-size: 18.6666660308838px;">- Urządzenie posiada większe i liczniejsze szczeliny dla chłodziwa w celu poprawienia smarowania noży.&nbsp;</span></font></p>
+<p style="text-align: left;"><font color="#333333"><span style="font-size: 18.6666660308838px;">- Ergonomia noża zapewnia łatwiejsze rozpoczęcie gwintowania.&nbsp;</span></font></p>
+<p style="text-align: left;"><font color="#333333"><span style="font-size: 18.6666660308838px;">- Żeliwna nakładka zapewnia większą sztywność i lepsze utrzymywanie jakości gwint&oacute;w.</span></font></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<img src="http://dawika.pl/szablon/images/galeria.jpg">
+
+  <style type="text/css">#user_field #GallBox {padding:10px 10px 0px 10px; width:750px; margin:0px auto 0px auto;position:relative;background-color:#FFFFFF; border:#CCCCCC solid 0px;-webkit-border-radius:3px; -moz-border-radius:3px;border-radius:3px;}#user_field #GallBox .boxPa {height:1px;padding:0px;margin-top:10px;margin-bottom:10px;border-bottom:1px solid #B22424;}#user_field #GallBox .box-all2 {padding:0px;margin:0px 0px 10px 0px;text-align: center;}#user_field #GallBox .boxZbCh { display:inline-block;}#user_field #GallBox .clear {clear:both;display:block;height:1px;}#user_field #GallBox .boxFo { font-size:9px;font-family:Calibri;text-transform:uppercase;text-align:right;line-height:9px;height:15px;margin:0px 10px 10px 10px;}#user_field #GallBox .boxFo a {color:#666;text-decoration:none;}#user_field #GallBox .siteMid { background:#FFFFFF; position:absolute;display:block;width:640px;height:480px;opacity:0;filter:alpha(opacity = 0);text-align:center;vertical-align:middle;top:10px; right:70px; z-index:98; }
+#user_field #GallBox .siteMid img {max-width:640px;max-height:480px;border:1px solid #CCCCCC;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}#user_field #GallBox a:hover span.siteMid { opacity:1;filter:alpha(opacity = 100);transition:all 0.5s ease-out;-webkit-transition:all 0.5s ease-out;-moz-transition:all 0.5s ease-out;-o-transition:all 0.5s ease-out;w}
+#user_field #GallBox .boxPhMas { background:#FFFFFF; text-align:center;width:640px;height:480px;margin-left:50px;padding:0px;}
+#user_field #GallBox .boxPhMas img { max-width:640px;max-height:480px;border:1px solid #CCCCCC;padding:0px;margin:0px;background-repeat:no-repeat;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}
+#user_field #GallBox .imgmin0,
+#user_field #GallBox .imgmin1,
+#user_field #GallBox .imgmin2,
+#user_field #GallBox .imgmin3,
+#user_field #GallBox .imgmin4,
+#user_field #GallBox .imgmin5,
+#user_field #GallBox .imgmin6,
+#user_field #GallBox .imgmin7,
+#user_field #GallBox .imgmin8,
+#user_field #GallBox .imgmin9,
+#user_field #GallBox .imgmin10,
+#user_field #GallBox .imgmin11,
+#user_field #GallBox .imgmin12,
+#user_field #GallBox .imgmin13 
+
+{ width:60px; height:60px;padding:0px;margin:5px; margin-left:2px;margin-right:2px; padding:5px;border:1px solid #CCCCCC;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;-moz-box-shadow:2px 4px 7px #7D7D7D;-webkit-box-shadow:2px 4px 7px #7D7D7D;box-shadow:2px 4px 7px #7D7D7D;}
+#user_field #GallBox a:hover .imgmin0,
+#user_field #GallBox a:hover .imgmin1,
+#user_field #GallBox a:hover .imgmin2,
+#user_field #GallBox a:hover .imgmin3,
+#user_field #GallBox a:hover .imgmin4,
+#user_field #GallBox a:hover .imgmin5,
+#user_field #GallBox a:hover .imgmin6,
+#user_field #GallBox a:hover .imgmin7,
+#user_field #GallBox a:hover .imgmin8,
+#user_field #GallBox a:hover .imgmin9,
+#user_field #GallBox a:hover .imgmin10,
+#user_field #GallBox a:hover .imgmin11,
+#user_field #GallBox a:hover .imgmin12,
+#user_field #GallBox a:hover .imgmin13    
+{ margin:3px;padding:3px;border:3px solid #B22424;}#user_field #GallBox .imgNak0 {z-index:150;}
+
+#user_field #GallBox .imgmin0 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/1.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin1 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/2.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin2 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/3.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin3 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/4.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin4 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/5.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin5 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/6.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin6 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/7.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin7 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/8.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin8 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/9.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin9 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/10.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin10 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/11.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin11 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/12.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin12 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/13.jpg") no-repeat center center;}
+#user_field #GallBox .imgmin13 {background:#FFFFFF url("http://dawika.pl/gallery/kd332/100x100/14.jpg") no-repeat center center;}
+ 
+</style><div id="GallBox">
+<div class="boxPhMas">
+<img src="http://dawika.pl/gallery/kd332/1.jpg"></div>
+
+
+<div class="boxPa"></div><div class="box-all2">
+
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/1.jpg" rel="nofollow">
+<div class="imgmin imgmin0"></div><span class="imgNak0 siteMid"><img src="http://dawika.pl/gallery/kd332/1.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/2.jpg" rel="nofollow">
+<div class="imgmin imgmin1"></div><span class="imgNak1 siteMid"><img src="http://dawika.pl/gallery/kd332/2.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/3.jpg" rel="nofollow">
+<div class="imgmin imgmin2"></div><span class="imgNak2 siteMid"><img src="http://dawika.pl/gallery/kd332/3.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/4.jpg" rel="nofollow">
+<div class="imgmin imgmin3"></div><span class="imgNak3 siteMid"><img src="http://dawika.pl/gallery/kd332/4.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/5.jpg" rel="nofollow">
+<div class="imgmin imgmin4"></div><span class="imgNak4 siteMid"><img src="http://dawika.pl/gallery/kd332/5.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/6.jpg" rel="nofollow">
+<div class="imgmin imgmin5"></div><span class="imgNak5 siteMid"><img src="http://dawika.pl/gallery/kd332/6.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/7.jpg" rel="nofollow">
+<div class="imgmin imgmin6"></div><span class="imgNak6 siteMid"><img src="http://dawika.pl/gallery/kd332/7.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/8.jpg" rel="nofollow">
+<div class="imgmin imgmin7"></div><span class="imgNak7 siteMid"><img src="http://dawika.pl/gallery/kd332/8.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/9.jpg" rel="nofollow">
+<div class="imgmin imgmin8"></div><span class="imgNak8 siteMid"><img src="http://dawika.pl/gallery/kd332/9.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/10.jpg" rel="nofollow">
+<div class="imgmin imgmin9"></div><span class="imgNak9 siteMid"><img src="http://dawika.pl/gallery/kd332/10.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/11.jpg" rel="nofollow">
+<div class="imgmin imgmin10"></div><span class="imgNak10 siteMid"><img src="http://dawika.pl/gallery/kd332/11.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/12.jpg" rel="nofollow">
+<div class="imgmin imgmin11"></div><span class="imgNak11 siteMid"><img src="http://dawika.pl/gallery/kd332/12.jpg"></span></a>
+ 
+ <a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/13.jpg" rel="nofollow">
+<div class="imgmin imgmin12"></div><span class="imgNak12 siteMid"><img src="http://dawika.pl/gallery/kd332/13.jpg"></span></a>
+
+<a class="boxZbCh" target="_blank" href="http://dawika.pl/gallery/kd332/14.jpg" rel="nofollow">
+<div class="imgmin imgmin13"></div><span class="imgNak13 siteMid"><img src="http://dawika.pl/gallery/kd332/14.jpg"></span></a>
+ 
+ 
+</div></div>
+
+<center>
+<div id="pytania">
+<div id="tel">58 560 90 23</div>
+</div>
+<div id="dzial">
+<div class="danekontakt">Tel. 58 560 90 23 / 58 560 90 24 <strong>e-mail: </strong><a href="mailto:fhdawika@poczta.fm">k</a>raft.trade@poczta.fm</div>
+</div>
+<div id="godziny">
+<div class="danekontakt">Poniedziałek - Piątek 8:00 - 17:00</div>
+</div>
+<div id="daneadresowe">
+<div class="danekontakt" style="line-height: 15px;">
+<p>DAWIKA Sp&oacute;łka z ograniczoną odpowiedzialnością TRADE Sp&oacute;łka komandytowa,</p>
+<p>ul. Gł&oacute;wna 1b, Koteże, 83-200 Starogard Gdański</p>
+</div>
+</div>
+<img src="http://dawika.pl/szablon/images/inneaukcje.jpg"></center></div>
+</div>
+</div>
+<div id="stopka">
+<div id="stopka_copy">COPYRIGHT DAWIKA</div>
+</div>
+</div>
+</div>
+</center>
